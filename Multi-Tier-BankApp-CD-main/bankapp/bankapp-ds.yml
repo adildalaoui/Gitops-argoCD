@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: adildal/bankapp:v4
+        image: adildal/bankapp:v11
         ports:
         - containerPort: 8080
         env:
